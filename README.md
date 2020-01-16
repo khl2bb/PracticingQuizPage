@@ -1,5 +1,5 @@
-# 연습이에유
-    퀴즈페이지 연습
+# 퀴즈 페이지 연습이에유
+    https://khl2bb.github.io/PracticingQuizPage/
   
 
 
